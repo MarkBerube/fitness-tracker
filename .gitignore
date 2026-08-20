@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Generated frontend assets
+public/assets/
+public/workouts/
+
+# Test and build output
+coverage/
+dist/
+*.tsbuildinfo
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+.vercel/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editors and operating systems
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

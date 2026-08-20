@@ -1,0 +1,245 @@
+{
+  "title": "Week 3",
+  "days": [
+    {
+      "name": "Day 1",
+      "workouts": [
+        {
+          "exerciseName": "RDL",
+          "sets": [
+            { "reps": 10, "isAmrap": false, "percentage": 0 },
+            { "reps": 5,  "isAmrap": false, "percentage": 40 },
+            { "reps": 5,  "isAmrap": false, "percentage": 50 },
+            { "reps": 3,  "isAmrap": false, "percentage": 60 },
+            { "section": "" },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 3, "isAmrap": false, "percentage": 85 },
+            { "reps": 1, "isAmrap": true,  "percentage": 95 },
+            { "section": "" },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 5, "isAmrap": false, "percentage": 75 }
+          ]
+        },
+        {
+          "exerciseName": "Overhead Press",
+          "sets": [
+            { "reps": 5, "isAmrap": false, "percentage": 65 },
+            { "reps": 5, "isAmrap": false, "percentage": 65 },
+            { "reps": 5, "isAmrap": false, "percentage": 65 },
+            { "reps": 5, "isAmrap": false, "percentage": 65 },
+            { "reps": 5, "isAmrap": false, "percentage": 65 }
+          ]
+        },
+        {
+          "exerciseName": "Chin Ups",
+          "sets": [
+            { "reps": 5, "isAmrap": false, "percentage": 0 },
+            { "reps": 5, "isAmrap": false, "percentage": 0 },
+            { "reps": 5, "isAmrap": false, "percentage": 0 },
+            { "reps": 5, "isAmrap": false, "percentage": 0 },
+            { "reps": 5, "isAmrap": false, "percentage": 0 }
+          ]
+        },
+        {
+          "exerciseName": "Bicep Curls",
+          "sets": [
+            { "reps": 15, "isAmrap": false, "percentage": 65 },
+            { "reps": 15, "isAmrap": false, "percentage": 65 },
+            { "reps": 15, "isAmrap": false, "percentage": 65 }
+          ]
+        },
+        {
+          "exerciseName": "Ab Wheel",
+          "sets": [
+            { "reps": 12, "isAmrap": false, "percentage": 0 },
+            { "reps": 12, "isAmrap": false, "percentage": 0 },
+            { "reps": 12, "isAmrap": false, "percentage": 0 },
+            { "reps": 12, "isAmrap": false, "percentage": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Day 2",
+      "workouts": [
+        {
+          "exerciseName": "Bench Press",
+          "sets": [
+            { "reps": 10, "isAmrap": false, "percentage": 0 },
+            { "reps": 5,  "isAmrap": false, "percentage": 40 },
+            { "reps": 5,  "isAmrap": false, "percentage": 50 },
+            { "reps": 3,  "isAmrap": false, "percentage": 60 },
+            { "section": "" },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 3, "isAmrap": false, "percentage": 85 },
+            { "reps": 1, "isAmrap": true,  "percentage": 95 },
+            { "section": "" },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 5, "isAmrap": false, "percentage": 75 }
+          ]
+        },
+        {
+          "exerciseName": "Rows",
+          "sets": [
+            { "reps": 6, "isAmrap": false, "percentage": 50 },
+            { "reps": 6, "isAmrap": false, "percentage": 50 },
+            { "reps": 6, "isAmrap": false, "percentage": 50 },
+            { "reps": 6, "isAmrap": false, "percentage": 50 }
+          ]
+        },
+        {
+          "exerciseName": "Chestfly",
+          "sets": [
+            { "reps": 12, "isAmrap": false, "percentage": 45 },
+            { "reps": 12, "isAmrap": false, "percentage": 45 },
+            { "reps": 12, "isAmrap": false, "percentage": 45 }
+          ]
+        },
+        {
+          "exerciseName": "Bicep Curls",
+          "sets": [
+            { "reps": 15, "isAmrap": false, "percentage": 65 },
+            { "reps": 15, "isAmrap": false, "percentage": 65 },
+            { "reps": 15, "isAmrap": false, "percentage": 65 }
+          ]
+        },
+        {
+          "exerciseName": "Leg Raises",
+          "sets": [
+            { "reps": 12, "isAmrap": false, "percentage": 0 },
+            { "reps": 12, "isAmrap": false, "percentage": 0 },
+            { "reps": 12, "isAmrap": false, "percentage": 0 },
+            { "reps": 12, "isAmrap": false, "percentage": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Day 3",
+      "workouts": [
+        {
+          "exerciseName": "Squat",
+          "sets": [
+            { "reps": 10, "isAmrap": false, "percentage": 0 },
+            { "reps": 5,  "isAmrap": false, "percentage": 40 },
+            { "reps": 5,  "isAmrap": false, "percentage": 50 },
+            { "reps": 3,  "isAmrap": false, "percentage": 60 },
+            { "section": "" },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 3, "isAmrap": false, "percentage": 85 },
+            { "reps": 1, "isAmrap": true,  "percentage": 95 },
+            { "section": "" },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 5, "isAmrap": false, "percentage": 75 }
+          ]
+        },
+        {
+          "exerciseName": "Bench Press",
+          "sets": [
+            { "reps": 5, "isAmrap": false, "percentage": 65 },
+            { "reps": 5, "isAmrap": false, "percentage": 65 },
+            { "reps": 5, "isAmrap": false, "percentage": 65 },
+            { "reps": 5, "isAmrap": false, "percentage": 65 },
+            { "reps": 5, "isAmrap": false, "percentage": 65 }
+          ]
+        },
+        {
+          "exerciseName": "Chin Ups",
+          "sets": [
+            { "reps": 5, "isAmrap": false, "percentage": 0 },
+            { "reps": 5, "isAmrap": false, "percentage": 0 },
+            { "reps": 5, "isAmrap": false, "percentage": 0 },
+            { "reps": 5, "isAmrap": false, "percentage": 0 },
+            { "reps": 5, "isAmrap": false, "percentage": 0 }
+          ]
+        },
+        {
+          "exerciseName": "Bicep Curls",
+          "sets": [
+            { "reps": 15, "isAmrap": false, "percentage": 65 },
+            { "reps": 15, "isAmrap": false, "percentage": 65 },
+            { "reps": 15, "isAmrap": false, "percentage": 65 }
+          ]
+        },
+        {
+          "exerciseName": "Ab Wheel",
+          "sets": [
+            { "reps": 12, "isAmrap": false, "percentage": 0 },
+            { "reps": 12, "isAmrap": false, "percentage": 0 },
+            { "reps": 12, "isAmrap": false, "percentage": 0 },
+            { "reps": 12, "isAmrap": false, "percentage": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Day 4",
+      "workouts": [
+        {
+          "exerciseName": "Overhead Press",
+          "sets": [
+            { "reps": 10, "isAmrap": false, "percentage": 0 },
+            { "reps": 5,  "isAmrap": false, "percentage": 40 },
+            { "reps": 5,  "isAmrap": false, "percentage": 50 },
+            { "reps": 3,  "isAmrap": false, "percentage": 60 },
+            { "section": "" },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 3, "isAmrap": false, "percentage": 85 },
+            { "reps": 1, "isAmrap": true,  "percentage": 95 },
+            { "section": "" },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 5, "isAmrap": false, "percentage": 75 },
+            { "reps": 5, "isAmrap": false, "percentage": 75 }
+          ]
+        },
+        {
+          "exerciseName": "Pull Ups",
+          "sets": [
+            { "reps": 5, "isAmrap": false, "percentage": 0 },
+            { "reps": 5, "isAmrap": false, "percentage": 0 },
+            { "reps": 5, "isAmrap": false, "percentage": 0 },
+            { "reps": 5, "isAmrap": false, "percentage": 0 },
+            { "reps": 5, "isAmrap": false, "percentage": 0 }
+          ]
+        },
+        {
+          "exerciseName": "Dips",
+          "sets": [
+            { "reps": 8, "isAmrap": false, "percentage": 0 },
+            { "reps": 8, "isAmrap": false, "percentage": 0 },
+            { "reps": 8, "isAmrap": false, "percentage": 0 },
+            { "reps": 8, "isAmrap": false, "percentage": 0 }
+          ]
+        },
+        {
+          "exerciseName": "Bicep Curls",
+          "sets": [
+            { "reps": 15, "isAmrap": false, "percentage": 65 },
+            { "reps": 15, "isAmrap": false, "percentage": 65 },
+            { "reps": 15, "isAmrap": false, "percentage": 65 }
+          ]
+        },
+        {
+          "exerciseName": "Leg Raises",
+          "sets": [
+            { "reps": 12, "isAmrap": false, "percentage": 0 },
+            { "reps": 12, "isAmrap": false, "percentage": 0 },
+            { "reps": 12, "isAmrap": false, "percentage": 0 },
+            { "reps": 12, "isAmrap": false, "percentage": 0 }
+          ]
+        }
+      ]
+    }
+  ]
+}

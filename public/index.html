@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A privacy-first workout checklist with percentage-based weight calculations.">
+    <meta name="theme-color" content="#071a2f">
+    <title>Fitness Tracker</title>
+    <link rel="icon" href="/icon.svg" type="image/svg+xml">
+    <link rel="manifest" href="/manifest.webmanifest">
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <a class="skip-link" href="#main-content">Skip to workout</a>
+
+    <div class="page-shell">
+        <header class="hero">
+            <div>
+                <p class="eyebrow">Privacy-first training log</p>
+                <h1>Fitness Tracker</h1>
+                <p class="hero-copy">A focused workout checklist that keeps your progress on your device.</p>
+            </div>
+            <div class="privacy-badge" aria-label="Privacy information">
+                <span aria-hidden="true">●</span>
+                Browser-only progress
+            </div>
+        </header>
+
+        <main id="main-content">
+            <section class="panel" aria-labelledby="workout-title">
+                <div class="section-heading">
+                    <div>
+                        <p class="section-kicker">Today's plan</p>
+                        <h2 id="workout-title">Loading program…</h2>
+                    </div>
+                    <button id="clear-all-btn" class="button button-secondary" type="button" disabled>
+                        Reset progress
+                    </button>
+                </div>
+
+                <p id="app-status" class="status" role="status" aria-live="polite">Loading workout data…</p>
+                <div id="workout-tabs" class="tabs" role="tablist" aria-label="Workout days"></div>
+                <div id="workout-list"></div>
+            </section>
+
+            <section class="panel" aria-labelledby="maxes-title">
+                <div class="section-heading section-heading-compact">
+                    <div>
+                        <p class="section-kicker">For weight calculations</p>
+                        <h2 id="maxes-title">Training maxes</h2>
+                    </div>
+                </div>
+                <p class="supporting-copy">These values drive the percentage-based weights shown in each workout.</p>
+                <div id="one-rm-list" class="max-grid"></div>
+            </section>
+        </main>
+
+        <footer>
+            <p>No account. No analytics. Completion progress stays in this browser.</p>
+        </footer>
+    </div>
+
+    <script type="module" src="/assets/app.js"></script>
+</body>
+</html>

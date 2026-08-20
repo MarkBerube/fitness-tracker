@@ -1,0 +1,17 @@
+{
+  "name": "Fitness Tracker",
+  "short_name": "Tracker",
+  "description": "A privacy-first workout checklist with percentage-based weight calculations.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#071a2f",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

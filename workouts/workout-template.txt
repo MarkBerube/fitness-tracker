@@ -1,0 +1,20 @@
+# Workout Template
+# Format: ExerciseName: rep_notation
+# rep_notation examples:
+#   1@70 = 1 rep at 70% of 1RM
+#   5+@70 = 5 or more reps at 70%
+#   5,5,5+@70 = two sets of 5 reps, then one set of 5+ at 70%
+#   10 = 10 reps (no weight percentage, for bodyweight exercises)
+#   5,5,5 = three sets of 5 reps (no weight percentage)
+
+# Week 1 - Day 1
+Bench Press: 5@75, 5@85, 5+@95
+Squat: 5@75, 5@85, 5+@95
+
+# Week 1 - Day 2
+Deadlift: 5@75, 5@85, 5+@95
+Chin Ups: 5, 5, 5+
+
+# Week 1 - Day 3
+Bench Press: 3@70, 3@80, 3+@90
+Squat: 3@70, 3@80, 3+@90

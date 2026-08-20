@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Fitness Tracker</title>
+  <defs>
+    <linearGradient id="background" x1="32" y1="32" x2="480" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d75ff"/>
+      <stop offset="1" stop-color="#00b8a9"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#background)"/>
+  <path fill="#fff" d="M119 177h34v158h-34a22 22 0 0 1-22-22V199a22 22 0 0 1 22-22Zm56-36h42v230h-42a18 18 0 0 1-18-18V159a18 18 0 0 1 18-18Zm120 0h42a18 18 0 0 1 18 18v194a18 18 0 0 1-18 18h-42V141Zm64 36h34a22 22 0 0 1 22 22v114a22 22 0 0 1-22 22h-34V177ZM217 235h78v42h-78z"/>
+</svg>

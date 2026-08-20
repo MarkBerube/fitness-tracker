@@ -1,0 +1,28 @@
+{
+  "name": "privacy-first-fitness-tracker",
+  "version": "2.0.0",
+  "description": "A privacy-first workout checklist with percentage-based weight calculations.",
+  "type": "module",
+  "scripts": {
+    "build": "tsc --project tsconfig.json && node scripts/copy-workouts.mjs",
+    "dev": "npm run build && node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "test": "npm run build && node --test",
+    "typecheck": "tsc --project tsconfig.json --noEmit",
+    "check": "npm run typecheck && npm test"
+  },
+  "keywords": [
+    "fitness",
+    "workout",
+    "strength-training",
+    "typescript",
+    "privacy"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0"
+  }
+}
